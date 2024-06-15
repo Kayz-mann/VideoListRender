@@ -14,6 +14,7 @@
 		0D6E34032C1DB3E200633D3F /* ListViewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D6E34022C1DB3E200633D3F /* ListViewTests.swift */; };
 		0D6E340D2C1DB3E200633D3F /* ListViewUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D6E340C2C1DB3E200633D3F /* ListViewUITests.swift */; };
 		0D6E340F2C1DB3E200633D3F /* ListViewUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D6E340E2C1DB3E200633D3F /* ListViewUITestsLaunchTests.swift */; };
+		0D6E341C2C1DBF8900633D3F /* Video.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D6E341B2C1DBF8900633D3F /* Video.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		0D6E34082C1DB3E200633D3F /* ListViewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ListViewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0D6E340C2C1DB3E200633D3F /* ListViewUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListViewUITests.swift; sourceTree = "<group>"; };
 		0D6E340E2C1DB3E200633D3F /* ListViewUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListViewUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		0D6E341B2C1DBF8900633D3F /* Video.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Video.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				0D6E33F12C1DB3E100633D3F /* ListViewApp.swift */,
 				0D6E33F32C1DB3E100633D3F /* ContentView.swift */,
+				0D6E341B2C1DBF8900633D3F /* Video.swift */,
 				0D6E33F52C1DB3E200633D3F /* Assets.xcassets */,
 				0D6E33F72C1DB3E200633D3F /* Preview Content */,
 			);
@@ -258,6 +261,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0D6E33F42C1DB3E100633D3F /* ContentView.swift in Sources */,
+				0D6E341C2C1DBF8900633D3F /* Video.swift in Sources */,
 				0D6E33F22C1DB3E100633D3F /* ListViewApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
